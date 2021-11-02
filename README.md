@@ -4,7 +4,7 @@ Some basic tools for controlling a simulated quadrotor using [Drake](https://dra
 
 Download this code using git:
 ```
-git clone git@github.com:vincekurtz/drake_quadrotor.git
+git clone https://github.com/vincekurtz/drake_quadrotor
 ```
 
 Install Drake, if you haven't done so already, with python bindings per [these instructions](https://drake.mit.edu/installation.html).

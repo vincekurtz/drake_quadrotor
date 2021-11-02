@@ -8,9 +8,7 @@
 ##
 
 from pydrake.all import *
-from pydrake.examples.quadrotor import (
-        QuadrotorPlant, QuadrotorGeometry, StabilizingLQRController)
-import matplotlib.pyplot as plt
+from pydrake.examples.quadrotor import QuadrotorPlant, QuadrotorGeometry
 
 # Define the controller object
 class CustomQuadrotorController(LeafSystem):

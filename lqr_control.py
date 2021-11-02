@@ -10,7 +10,6 @@
 from pydrake.all import *
 from pydrake.examples.quadrotor import (
         QuadrotorPlant, QuadrotorGeometry, StabilizingLQRController)
-import matplotlib.pyplot as plt
 
 # Set up system plant
 builder = DiagramBuilder()
