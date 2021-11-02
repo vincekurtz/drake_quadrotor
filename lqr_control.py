@@ -37,5 +37,5 @@ diagram = builder.Build()
 context = diagram.CreateDefaultContext()
 simulator = Simulator(diagram, context)
 simulator.set_target_realtime_rate(1.0)
-simulator.AdvanceTo(10.0)   # run for 10 seconds
+simulator.AdvanceTo(5.0)   # run for 5 seconds
 
