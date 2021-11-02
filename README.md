@@ -7,7 +7,7 @@ Download this code using git:
 git clone git@github.com:vincekurtz/drake_quadrotor.git
 ```
 
-Install Drake with python bindings per [these instructions](https://drake.mit.edu/installation.html)
+Install Drake, if you haven't done so already, with python bindings per [these instructions](https://drake.mit.edu/installation.html).
 
 Set these environment variables in your `.bashrc` file:
 ```
